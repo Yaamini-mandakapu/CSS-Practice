@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Selectors</title>
+  <style>
+  P{
+  background:blue;
+  color:white;
+}
+</style>
+</head>
+<body>
+<p>This is first</p>
+<p>This is second</p>
+<h1>External style</h1>
+</body>
